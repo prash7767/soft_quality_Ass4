@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stark Solutions\\source\\repos\\Prashant_Patel_8979598_Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15010159-9967-4564-8097-90406782B827}|Prashant_Patel_8979598_Assignment4.csproj|c:\\users\\stark solutions\\source\\repos\\prashant_patel_8979598_assignment4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15010159-9967-4564-8097-90406782B827}|Prashant_Patel_8979598_Assignment4.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Stark Solutions\\source\\repos\\Prashant_Patel_8979598_Assignment4\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Stark Solutions\\source\\repos\\Prashant_Patel_8979598_Assignment4\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAJ0BAAAANDMzMzPvv6UBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:33:56.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
